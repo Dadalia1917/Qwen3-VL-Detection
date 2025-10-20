@@ -1,0 +1,12 @@
+# Core dependencies
+gradio==5.46.1
+gradio_client==1.13.1
+transformers-stream-generator==0.0.5
+git+https://github.com/huggingface/transformers.git
+torch
+torchvision
+accelerate
+
+# Optional dependency
+# Uncomment the following line if you need flash-attn
+# flash-attn
