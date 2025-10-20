@@ -37,7 +37,7 @@
 ### 环境要求
 
 ```bash
-# Python 3.8+
+# Python 3.11+
 pip install torch torchvision
 pip install transformers>=4.57.0
 pip install pillow opencv-python numpy matplotlib tqdm
